@@ -18,10 +18,18 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=badz20&show_icons=true&theme=gotham" alt="badz20" />
 
 ###
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badz20&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 <div align="center">
     <img width="40%" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 <img width="40%" src="https://media0.giphy.com/media/DvMHwFYLVHlZe/giphy.gif" >
 </div>
+
+
 
 <br><br>
 
@@ -63,3 +71,7 @@
   <p> "SLEEP NOW DREAM COME OUT, STUDY NOW DREAM COME TRUE" </p>
 </div>
 <hr>
+
+
+
+
