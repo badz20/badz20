@@ -15,7 +15,7 @@
 
 ###
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=badz20&show_icons=true&theme=gotham" alt="badz20" />
+<div><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=badz2&show_icons=true&theme=gotham" alt="badz20" /></div>
 
 ###
 
