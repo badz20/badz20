@@ -1,6 +1,3 @@
-
-            <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-          
 ###
  
 <hr>
@@ -62,8 +59,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" height="40" width="52" alt="vagrant logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" width="52" alt="wordpress logo"  />
- <i class="devicon-laravel-original-wordmark colored"></i>
-
+  <img src="https://devicon-website.vercel.app/api/laravel/plain-wordmark.svg" height="40" width="52" alt="wordpress logo"></img>
 
 ###
 
