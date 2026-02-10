@@ -2,11 +2,11 @@
  
 <hr>
 
-<div align="center">
+<!-- <div align="center">
     
    
 اللهُمَّ صلِّ على سيِّدِنا محمد وعلى آلِهِ وَصَحْبِهِ وَسَلِّمْ
-</div>
+</div> -->
 <hr>
 
 ###
@@ -35,7 +35,6 @@
 
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" width="52" alt="amazonwebservices logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" width="52" alt="canva logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" width="52" alt="codeigniter logo"  />
