@@ -11,7 +11,7 @@
 
 ###
 
-<p align="center">Hi ! I'm Badrul</p>
+<p align="center">Hi 👋 I'm Badrul</p>
 
 ###
 
