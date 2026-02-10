@@ -61,7 +61,7 @@
 
 <hr>
 <div align="center">
-  <p> "SLEEP NOW DREAM COME OUT, CODE NOW DREAM COME TRUE" </p>
+  <p> "sleep now dream come out, code now dream come true" </p>
 </div>
 <hr>
 
