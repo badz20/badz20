@@ -35,7 +35,7 @@
 <br><br>
 
 
-<div align="left">
+<div align="center">
   <img src="https://devicon-website.vercel.app/api/html5/original.svg" height="40" width="52" alt="html logo"></img>
   <img src="https://devicon-website.vercel.app/api/css3/original.svg" height="40" width="52" alt="css logo"></img>
   <img src="https://devicon-website.vercel.app/api/javascript/original.svg" height="40" width="52" alt="js logo"></img>
